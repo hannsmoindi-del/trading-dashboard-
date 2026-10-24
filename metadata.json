@@ -1,0 +1,8 @@
+{
+  "name": "Remix ApexTrade - Modern Trading Dashboard",
+  "description": "Professional-grade real-time trading dashboard featuring interactive candlestick charts, live order books, instant execution, portfolio analytics, and multi-asset market data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
